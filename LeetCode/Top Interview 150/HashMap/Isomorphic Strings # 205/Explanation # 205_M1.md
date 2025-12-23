@@ -127,6 +127,4 @@ Using two HashMaps ensures:
 * No character maps to multiple characters
 * No character receives mappings from multiple characters
 
-This approach is clean, safe, and efficient.
-
 ---
