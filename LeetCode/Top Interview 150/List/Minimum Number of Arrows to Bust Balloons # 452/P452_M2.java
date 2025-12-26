@@ -4,7 +4,8 @@ class Solution {
     public static int findMinArrowShots(int[][] points) {
         if (points == null || points.length == 0)
             return 0;
-
+        
+        // SORTING THEM IN REFERANCE TO THEIR END COORDINATES 
         Arrays.sort(points, (a, b) -> Integer.compare(a[1], b[1]));
 
         int arrows = 1;
