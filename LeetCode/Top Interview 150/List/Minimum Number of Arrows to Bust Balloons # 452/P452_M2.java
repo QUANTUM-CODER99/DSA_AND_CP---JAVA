@@ -11,7 +11,6 @@ class Solution {
         long end = points[0][1];
 
         for (int i = 1; i < points.length; i++) {
-            // If current balloon starts after the last arrow end
             if (points[i][0] > end) {
                 arrows++;
                 end = points[i][1];
