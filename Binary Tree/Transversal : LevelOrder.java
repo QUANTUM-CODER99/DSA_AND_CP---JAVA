@@ -3,7 +3,7 @@
         if (root == null) {
             return;
         }
-        Queue<Node> queue = new LinkedList<>();
+        Queue<Node> queue = new LinkedList<>(); // IMPORTANT APPROACH -> QUEUE
         queue.add(root);
         queue.add(null);
         while (!queue.isEmpty()) {
