@@ -1,4 +1,4 @@
-## 🔁 Rotate Array by *k* Steps (My Approach)
+## 🔁 Rotate Array by *k* Steps
 
 ### 🔹 Core Idea Behind My Approach
 
