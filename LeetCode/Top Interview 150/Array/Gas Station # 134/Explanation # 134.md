@@ -122,7 +122,3 @@ for (int i = 0; i < gas.length; i++) {
 * This solution is **efficient**, **clean**, and **greedy**
 * It avoids unnecessary simulations
 * It works because a failed segment can never be part of the final answer 🚀
-
-💡 **Key takeaway:**
-
-> If the total gas is sufficient, there is **exactly one valid starting point**, and this greedy method always finds it.
