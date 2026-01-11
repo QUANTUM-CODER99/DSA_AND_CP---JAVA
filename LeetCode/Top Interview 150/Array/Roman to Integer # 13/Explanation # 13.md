@@ -100,4 +100,4 @@ So:
 ## 🎯 Final Takeaway
 
 💡 Instead of memorizing Roman numeral rules, I let **ordering do the work**.
-By comparing each symbol with the next one, I naturally handle both **addition and subtraction cases** without extra conditions 🧩
+By comparing each symbol with the next one, I naturally handle both **addition and subtraction cases** without extra conditions
